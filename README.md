@@ -14,6 +14,7 @@ Live Webcam based Face Attendance System Project through python programming
 This System uses facial recognition technology to record the attendance through a high resolution digital camera/webcam that detects and recognizes faces and compare the recognize faces with students/known faces images stored in faces database(CSV).
 
 
+
 ## How to Reach me :
 
 Mail : vatshayan007@gmail.com 
@@ -23,3 +24,5 @@ Website : https://www.cse-projects.com/
 Computer Science Project List : https://computerscienceproject.com/
 
 ### Youtube Implementation Video : https://youtu.be/tLhFaAurhGw
+
+IMP : If you are getting error/problems/queires then Reach me will help you
