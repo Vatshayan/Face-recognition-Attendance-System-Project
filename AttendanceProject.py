@@ -1,6 +1,9 @@
+# Full Project Code Mail : vatshayan007@gmail.com
+# If you get error then Mail : vatshayan007@gmail.com
+
 import cv2
 import numpy as np
-import face_recognition
+import face_recognitions
 import os
 from datetime import datetime
 
@@ -67,4 +70,6 @@ while True:
     if cv2.waitKey(10) == 13:
         break
 cap.release()
-cv2.destroyAllWindows()
+cv2.destroyAllWindow()
+
+
