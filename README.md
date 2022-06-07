@@ -15,7 +15,7 @@ Smart Attendance Management System is an application developed for daily student
 
 This System uses facial recognition technology to record the attendance through a high resolution digital camera/webcam that detects and recognizes faces and compare the recognize faces with students/known faces images stored in faces database(CSV).
 
-### Refernence Base Research Paper : https://ieeexplore.ieee.org/document/9215441
+### Reference Base Research Paper : https://ieeexplore.ieee.org/document/9215441
 
 ### Need Code, Documents & Explanation ? 
 
