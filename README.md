@@ -17,6 +17,8 @@ This System uses facial recognition technology to record the attendance through 
 
 ### Refernence Base Research Paper : https://ieeexplore.ieee.org/document/9215441
 
+### Need Code, Documents & Explanation ? 
+
 ## How to Reach me :
 
 ### Mail : vatshayan007@gmail.com 
